@@ -23,4 +23,4 @@ Unfortunately the database isn't implemented at this moment in time. I am curren
 
 Obviously this isn't ideal, I will continue to work on the app and push further updates to this repo. If you have any questions please feel free to contact me
 
-Currently the dataase is hosted on AWS RDS as a mySQL database, having connection issues which I am tryign to resolve (see issues for more information)
+Currently the database is hosted on AWS RDS as a mySQL database, having connection issues which I am tryign to resolve (see issues for more information)
