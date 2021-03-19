@@ -3,19 +3,19 @@ Welcome to the Shop App that was made for the blinx technical test
 
 Firstly to begin You need to go into the fie and run the command 
 
-npm install
+```npm install```
 
 Then once the installations are complete then run
 
-npm start 
+```node server.js```
 
-This should fire up the app in localhost:3000
+This will start up the login system, at this moment in time the login system will accept any username and password. THis is somethign that I am looking to change.
 
-There are many changes I would have liked to have made but unfortunately due to time and technology restraints I couldn't
+In a different terminal rum the command:
 
-Things that I would have liked to add:
+```npm start``` 
 
-* A proper search bar
+This should fire up the app in localhost:3000, where you willbe directed to the login page for you to login with and this will take you to the home product page
 
 # Database (where is it?)
 
