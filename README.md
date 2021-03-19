@@ -15,7 +15,6 @@ There are many changes I would have liked to have made but unfortunately due to 
 
 Things that I would have liked to add:
 
-* A proper functioning login system
 * A proper search bar
 
 # Database (where is it?)
