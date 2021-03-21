@@ -1,13 +1,15 @@
 import React from 'react';
 import "./App.css";
 import { products } from './products';
-import HomePageHeader from './homepageHeader'
+import HomePageHeader from './homepageHeader';
+require('dotenv').config();;
 
 
- const Products = () => {
+const Products = () => {
 
     const Products = ({image, name, type, price}) => {
         return(
+            
             <table>
                 <tbody>
                     <td>

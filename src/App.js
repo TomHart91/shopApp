@@ -6,6 +6,7 @@ import Products from './productPage';
 import Charts from './charts';
 import Login from'./login';
 import useToken from './useToken';
+require('dotenv').config();
 
 
 export default function App() {

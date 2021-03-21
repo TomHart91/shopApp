@@ -1,5 +1,5 @@
-
 import React, { Component } from 'react';
+require('dotenv').config();
 
 
 class HomePageHeader extends React.Component {
