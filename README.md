@@ -19,8 +19,6 @@ This should fire up the app in localhost:3000, where you will be directed to the
 
 # Database (where is it?)
 
-Unfortunately the database isn't implemented at this moment in time. I am currently working on a linux laptop (unbuntu 20.04) and I found it impossible to get a local mySQL DB running on it. I also tried using the AWS RDS system but to no avail in getting it running
+A database has been created along with a products table. It is hosted on Amazon Web Services (AWS) RDS Service and is queried when running the node server (server.js)
 
-Obviously this isn't ideal, I will continue to work on the app and push further updates to this repo. If you have any questions please feel free to contact me
-
-Currently the database is hosted on AWS RDS as a mySQL database, having connection issues which I am tryign to resolve (see issues for more information)
+I have had issues displaying the information on the front end and plan to continue to work on it
